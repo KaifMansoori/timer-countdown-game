@@ -1,4 +1,4 @@
-# time-coutdown-game
+# time-countdown-game
 
  ## Install my-project with npm
 
